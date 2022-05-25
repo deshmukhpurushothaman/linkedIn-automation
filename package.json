@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-automation",
+  "version": "1.0.0",
+  "description": "LinkedIn Automation",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.ts"
+  },
+  "author": "Deshmukh P",
+  "license": "ISC",
+  "dependencies": {
+    "@types/puppeteer": "^5.4.6",
+    "dotenv": "^16.0.1",
+    "puppeteer": "^14.1.1"
+  }
+}
